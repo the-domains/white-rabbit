@@ -1,0 +1,14 @@
+layout_spectrum: 0.48816
+color:
+  saturation: 0.928587
+  lightness: 0.3022114
+  brandStrength: 0.3441051
+  brandColors:
+    - '#BDBDC2'
+    - '#FFFFFF'
+    - '#88BCC3'
+    - '#636366'
+    - '#939397'
+  rhythmicContrast: 0.4609318
+typography_spectrum: 0.2271008
+name: White Rabbit
