@@ -1,14 +1,26 @@
-layout_spectrum: 0.48816
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.928587
-  lightness: 0.3022114
   brandStrength: 0.3441051
+  rhythmicContrast: 0.4609318
   brandColors:
     - '#BDBDC2'
     - '#FFFFFF'
     - '#88BCC3'
     - '#636366'
     - '#939397'
-  rhythmicContrast: 0.4609318
-typography_spectrum: 0.2271008
+  lightness: 0.3022114
+typography_spectrum: 0.6525242
+layout_spectrum: 0.4495167
 name: White Rabbit
