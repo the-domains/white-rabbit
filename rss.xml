@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[White Rabbit]]></title>
         <description><![CDATA[White Rabbit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/white-rabbit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 14:55:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 14:55:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/white-rabbit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cavell Research: 'Hosted Voice groeit 30% per jaar in Nederland']]></title>
+            <description><![CDATA[<article><h1>Cavell Research: 'Hosted Voice groeit 30% per jaar in Nederland'</h1><p>De Nederlandse Hosted Voice-markt is met zo'n 820.000 seats de best ontwikkelde binnen Europa. Volgens het Benelux Hosted VoIP rapport van de Cavell Group is er vanaf 2016 in Nederland een groei van ruim 30% per jaar te verwachten voor Cloud Telefonie. Vooral het MKB heeft in Nederland de weg naar Cloud Communicatiediensten al goed...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/291d264dddabb610ff13c2dcaa756b57c8bc643b.png"></article>]]></description>
+            <link>https://robkurver.com/2016/02/09/cavell-research-hosted-voice-groeit-30-per-jaar-in-nederland/</link>
+            <guid isPermaLink="false">079a7f89-3f0d-4e7f-997e-27fecf78f03b</guid>
+            <pubDate>Sat, 30 Apr 2016 14:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BroadSoft Connections 2015: innovatie gericht op de Millennial]]></title>
             <description><![CDATA[<article><h1>BroadSoft Connections 2015: innovatie gericht op de Millennial</h1><p>Het jaarlijkse Amerikaanse BroadSoft-feestje, Connections, stond dit jaar in het teken van innovatie en de ontwikkeling van de mondiale Hosted Voice en UCaaS markt. Meer dan 1.300 aanwezigen, afkomstig van 600 van de belangrijkste service providers uit de gehele wereld, hoorden in Phoenix - Arizona van CEO Mike Tessler en de nieuwe marketing manager Taher...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0fd4b8e817fa545c370f458db76f95daadc7f39.jpg"></article>]]></description>
